@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class LoginPage extends StatefulWidget {
+
   static final String routeName = '/login';
 
   @override

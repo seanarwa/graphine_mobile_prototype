@@ -57,6 +57,7 @@ class App extends StatelessWidget {
       getPages: [
         GetPage(name: '/', page: () => HomePage()),
         GetPage(name: '/login', page: () => LoginPage()),
+        GetPage(name: '/scanner', page: () => ScannerPage()),
       ],
     );
   }
