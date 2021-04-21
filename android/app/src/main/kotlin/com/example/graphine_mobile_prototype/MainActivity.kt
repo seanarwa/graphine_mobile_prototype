@@ -1,4 +1,4 @@
-package com.example.graphine_mobile_prototype
+package co.graphine.app
 
 import io.flutter.embedding.android.FlutterActivity
 
